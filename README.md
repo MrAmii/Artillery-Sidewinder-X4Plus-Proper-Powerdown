@@ -189,7 +189,7 @@ sudo systemctl restart klipper
 
 ---
 
-## 3. Usage
+## 3. Usage (buttons in Fluidd/Mainsail interface)
 
 ### Immediate power off
 
