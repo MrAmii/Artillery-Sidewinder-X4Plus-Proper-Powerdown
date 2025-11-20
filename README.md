@@ -1,5 +1,5 @@
 # Artillery-Sidewinder-X4Plus-Proper-Powerdown
-This will allow you to power down your system responsibly
+This will allow you to power down your system responsibly. Once executed, allow ten seconds before flipping the power switch off.
 
 
 # Klipper Host Power-Off Integration (Artillery X4 Plus)
